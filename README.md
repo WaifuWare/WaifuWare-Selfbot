@@ -16,3 +16,6 @@ git clone https://github.com/WaifuWare/WaifuWare-Selfbot
   <li>Run the start.bat or start.sh (depending of your OS)</li>
   <li>Enjoy</li>
 </ul>
+
+# DISCLAIMER
+**I AM NOT RESPONSIBLE OF ANY MALICIOUS USES, SELFBOTS ARE AGAINST DISCORD TOS AND YOU CAN GET YOUR ACCOUNT TERMINATED**
