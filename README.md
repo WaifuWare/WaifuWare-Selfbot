@@ -2,7 +2,7 @@
 Discord Selfbot made by TaxMachine with few fun utilities(no raid commands)
 
 # Installation
-Install <a href="https://nodejs.org">NodeJS</a> if its not already done
+Install <a href="https://nodejs.org">NodeJS</a> if its not already done<br>
 Install <a href="https://git-scm.com/">Git</a> if its not already done
 Clone this repository using git
 ```
