@@ -1,6 +1,6 @@
 const discord = require('v11-discord.js'),client=new discord.Client(),needle=require('needle'),fs=require('fs'),crypto=require('crypto-js'),gradient=require('gradient-string'),{execSync}=require('child_process')
 var config=require('./config.json'),token=config.token,prefix=config.prefix
-client.login(token)
+client.login(token).catch(e => console.log(gradient("red", "orange")("Invalid Token"))
 client.on('message', (message) => {
     if (message.author.id != client.user.id) return;
     if (!message.content.startsWith(prefix)) return;
