@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "gradient-string": "^2.0.0",
+    "needle": "^3.0.0",
+    "nodemon": "^2.0.15",
+    "v11-discord.js": "^11.5.8"
+  },
+  "scripts": {
+    "start": "nodemon ./index.js"
+  }
+}
