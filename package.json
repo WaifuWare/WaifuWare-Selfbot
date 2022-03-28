@@ -7,6 +7,7 @@
     "v11-discord.js": "^11.5.8"
   },
   "scripts": {
-    "start": "nodemon ./index.js"
+    "start": "nodemon ./index.js",
+    "install": "npm i v11-discord.js gradient-string needle nodemon crypto-js"
   }
 }
