@@ -2,8 +2,8 @@
 Discord Selfbot made by TaxMachine with few fun utilities(no raid commands)
 
 # Installation
-Install (NodeJS)[https://nodejs.org] if its not already done
-Install (Git)[https://git-scm.com/] if its not already done
+Install <a href="https://nodejs.org">NodeJS</a> if its not already done
+Install <a href="https://git-scm.com/">Git</a> if its not already done
 Clone this repository using git
 ```
 git clone https://github.com/WaifuWare/WaifuWare-Selfbot
